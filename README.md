@@ -1,2 +1,2 @@
 # Projets-divers-prepa
-#Dans le cadre d'un projet pour améliorer la perception de l'environnement d'un joueur de cécifoot (TIPE), j'ai récupéré les coordonnées de positions d'un joueur en mouvement afin de les lui transmettre par des vibreurs. Ce projet informatique a pour but de savoir quels vibreurs activer connaissant ses coordonnées et l'incertitude associée.#
+#programme_conversion_coordonneesfloat_coordonneescarre : Dans le cadre d'un projet pour améliorer la perception de l'environnement d'un joueur de cécifoot (TIPE), j'ai récupéré les coordonnées de positions d'un joueur en mouvement afin de les lui transmettre par des vibreurs. Ce projet informatique a pour but de savoir quels vibreurs activer connaissant ses coordonnées et l'incertitude associée.#
